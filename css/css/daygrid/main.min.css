@@ -188,11 +188,11 @@ a[data-goto]:hover {
     font-size: .85em;
     line-height: 1.4;
     border-radius: 3px;
-    border: 1px solid #1db31c
+    border: 1px solid #3788d8
 }
 
 .fc-event,.fc-event-dot {
-    background-color: #1ca20d
+    background-color: #1e8a0b;
 }
 
 .fc-event,.fc-event:hover {
